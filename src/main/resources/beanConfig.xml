@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <beanName>com.flchen.designpatternpractice.factoryMethodPattern.GifImageReaderFactory</beanName>
+</config>
